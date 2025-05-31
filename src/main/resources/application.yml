@@ -9,6 +9,11 @@ springdoc:
   swagger-ui:
     path: /swagger-ui.html
 
+sendgrid:
+  api-key:
+  from-email:
+
+
 
 logging:
   level:
